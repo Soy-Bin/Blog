@@ -6,4 +6,4 @@ permalink:
 ---
 # Welcome!
 This is a blog of Soy_Bin.<br>
-[[Table of Contents]]
+[Please Visit](/_notes/Table of Contents])
