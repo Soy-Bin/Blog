@@ -2,18 +2,28 @@
 layout: page
 title: Home
 id: home
-permalink: /
+permalink: 
 ---
-
 # Welcome!
 This is a blog of Soy_Bin.
-<p style="padding: 3em 1em; background: #ffffff; border-radius: 4px;">
-  Feel free to get into <span style="font-weight: bold">[[My place]]</span> 
-</p>
+# Table of Contents
+## AI Modeling
+### 1.Math&Statistics
 
+### 2.Python
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+### 3.Machine Learning
+	[[0.1.Data Science 개요]]
+	[[0.2.Linear Algebra for Machine Learning]]
+	[[0.3.Loss Function]]
+	[[1.1.Problem defining]]
+	[[1.2.Learning of Computer]]
+	[[2.1.Regression]]
+	[[2.2.Classification]]
+	[[2.3.Clustering]]
+	[[2.4.Boosting(Ensemble)]]
+### 4.Deep Learning
+
+### ETC
+	[[Github]]
+	[[Mark Down]]
