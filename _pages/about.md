@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+<h1>This is about Soy_Bin.</h1>
 
-Feel free to tell the world about what you love! 😍
+<br>I am a student learning languages of this world</br>
+<br>Fun fact : I am interested in human but not in people. I just love them.</br>
